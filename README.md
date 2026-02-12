@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sujit Soni</h1>
-<h3 align="center">A passionate Software Developer Engineer</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4f726b05e95c515201c81c1f36fcce49e77ded18bc52ecc43d978e0964f2244d/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+<h3 align="center">A passionate Backend Engineer</h3>
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujitsoni009&label=Profile%20views&color=0e75b6&style=flat" alt="sujitsoni009" /> </p>
 
